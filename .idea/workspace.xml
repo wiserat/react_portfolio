@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca898761-bb1c-4716-859d-4396cf5f38b6" name="Changes" comment="First and only commit">
+      <change afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Vitall.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ClosedEyes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Fancy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Career.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Lure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Name.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Photo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Socials.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Socials2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Text2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TextPhoto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Trader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/HeroSection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2VAUcWTZeJYjZCMdUWeieBIXZXT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Rebasing master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/sections" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca898761-bb1c-4716-859d-4396cf5f38b6" name="Changes" comment="" />
+      <created>1694278458544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694278458544</updated>
+      <workItem from="1694278461366" duration="405000" />
+      <workItem from="1694279394565" duration="642000" />
+      <workItem from="1694329859528" duration="14118000" />
+      <workItem from="1694347444824" duration="3064000" />
+      <workItem from="1694366758157" duration="3364000" />
+      <workItem from="1694370649457" duration="3489000" />
+      <workItem from="1694374401157" duration="3699000" />
+      <workItem from="1694378326313" duration="339000" />
+      <workItem from="1694420415466" duration="9986000" />
+      <workItem from="1694439441489" duration="947000" />
+      <workItem from="1694440438927" duration="2617000" />
+      <workItem from="1694498076901" duration="3255000" />
+      <workItem from="1694509977573" duration="1834000" />
+      <workItem from="1694627070696" duration="6761000" />
+      <workItem from="1694671078526" duration="430000" />
+    </task>
+    <task id="LOCAL-00001" summary="First and only commit">
+      <option name="closed" value="true" />
+      <created>1694631538085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694631538085</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First and only commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First and only commit" />
+  </component>
+</project>
